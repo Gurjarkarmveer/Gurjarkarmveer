@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m a passionate **Data Analyst** who loves uncovering i
 ---
 
 ## 🚀 About Me
-- 📊 Skilled in **Data Analysis, SQL, Python, and Data Visualization**  
+- 📊 Skilled in **Data Analysis, SQL, Python, Power BI and Data Visualization**  
 - 🛠 Experienced in **Frontend Development** & building **interactive web apps**  
 - 📈 Love working on **real-world datasets** and solving **DSA problems**  
 - 👯 Open to collaborate on **data-driven projects** and **open-source contributions**  
